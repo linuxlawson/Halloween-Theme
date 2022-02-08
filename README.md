@@ -2,5 +2,5 @@
 Works on Linux Mint 20.3 Cinnamon (Una)
 
 
-Menu and Panel only (cinnamon.css).  
+Menu, Panel, and Calender only (cinnamon.css).  
 Does not include Windows Borders or Controls.
