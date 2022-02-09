@@ -1,4 +1,4 @@
-# Halloween Theme for Linux Mint
+## Halloween Theme for Linux Mint
 Works on Linux Mint 20.3 Cinnamon (Una)
 
 
