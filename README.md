@@ -21,6 +21,6 @@ If you have to create a .themes folder, it should have a period in front of it >
 
 4. Rename Mint-Y-Dark to Halloween (or whatever..)
 
-It should now show up in your themes under: System Settings >> Themes  
+It should now show up in your themes under: System Settings >> Themes >> Desktop   
 
 Enjoy.  
